@@ -4,7 +4,7 @@
 Conceptualized from our African Traditional Banking, This is a Micro-finance application that allows registered members to keep track their banking.
 ChamaSoft is a minimalistic ERP and seeks to solve the small "Mwananchi" banking chalenges.
 
-# WHy ChamaSoft
+# Why ChamaSoft
 1. It will go a long way to assit many who will sabscribe to it to easily manage their finances without the stragles of loosing their data
 2. It will assist in perfoming basic transactional computations for 
    a. Credit
