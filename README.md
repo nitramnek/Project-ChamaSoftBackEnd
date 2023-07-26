@@ -1,5 +1,4 @@
 # Project ChamaSoft BackEnd
-
 # ChamaSoft
 Conceptualized from our African Traditional Banking, This is a Micro-finance application that allows registered members to keep track their banking.
 ChamaSoft is a minimalistic ERP and seeks to solve the small "Mwananchi" banking chalenges.
@@ -25,4 +24,5 @@ It should be capable of
 3. Member Dasboards and or statements
 4. Intergrations with other apps APIs e.g MPESA
 
+# Important Links
 <a href="https://github.com/nitramnek/Project-ChamaSoftFrontEnd" target="_blank">Project-ChamaSoftFrontEnd</a>
